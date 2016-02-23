@@ -149,8 +149,8 @@
       <HintPath>packages\EPiServer.CMS.Core.9.7.0\lib\net45\EPiServer.XForms.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Jos.ContentJson, Version=2.2.961.21031, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\Jos.ContentJson.2.2.961\lib\net45\Jos.ContentJson.dll</HintPath>
+    <Reference Include="Jos.ContentJson, Version=2.6.961.33504, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Jos.ContentJson.2.7.961\lib\net45\Jos.ContentJson.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="log4net, Version=1.2.13.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
