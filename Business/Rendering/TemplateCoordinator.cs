@@ -1,7 +1,7 @@
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
 using EPiServer.ServiceLocation;
-using Alloy.Controllers;
+using Alloy.Features;
 using Alloy.Models.Blocks;
 using Alloy.Models.Pages;
 using EPiServer.Web;
@@ -12,8 +12,8 @@ namespace Alloy.Business.Rendering
     [ServiceConfiguration(typeof(IViewTemplateModelRegistrator))]
     public class TemplateCoordinator : IViewTemplateModelRegistrator
     {
-        public const string BlockFolder = "~/Views/Shared/Blocks/";
-        public const string PagePartialsFolder = "~/Views/Shared/PagePartials/";
+        public const string BlockFolder = "~/Features/Shared/Blocks/";
+        public const string PagePartialsFolder = "~/Features/Shared/PagePartials/";
 
         public static void OnTemplateResolved(object sender, TemplateResolverEventArgs args)
         {

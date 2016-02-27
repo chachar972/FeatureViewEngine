@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Web;
+using Alloy.Features.Shared.Search;
 using Alloy.Models.Pages;
 
 namespace Alloy.Models.ViewModels

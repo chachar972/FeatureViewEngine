@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Globalization;
 using System.Linq;
+using Alloy.Features.StartPage;
 using Alloy.Models.Pages;
 using EPiServer;
 using EPiServer.Core;

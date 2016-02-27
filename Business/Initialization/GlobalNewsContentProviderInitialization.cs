@@ -2,6 +2,7 @@ using System;
 using System.Configuration;
 using System.Linq;
 using Alloy.Business.ContentProviders;
+using Alloy.Features.StartPage;
 using Alloy.Models.Pages;
 using EPiServer;
 using EPiServer.Core;

@@ -2,6 +2,7 @@ using System.Linq;
 using System.Web.Mvc;
 using System.Web.Routing;
 using System.Web.Security;
+using Alloy.Features.StartPage;
 using Alloy.Helpers;
 using Alloy.Models.Pages;
 using Alloy.Models.ViewModels;

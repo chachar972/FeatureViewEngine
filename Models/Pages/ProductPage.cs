@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using Alloy.Features.StartPage;
 using Alloy.Models.Blocks;
 using EPiServer.Core;
 using EPiServer.DataAbstraction;
